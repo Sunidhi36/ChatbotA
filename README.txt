@@ -16,7 +16,7 @@ Contents of this README:
 	A) Brief description
 	B) Files description
 	C) Details on the collection procedure
-	D) Contact
+	D) Contacts
 
 
 A) Brief description:
